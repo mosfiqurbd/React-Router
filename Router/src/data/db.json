@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "abc",
+      "title": "Todo 1",
+      "isCompleted": false
+    },
+    {
+      "id": "xyz",
+      "title": "Todo 2",
+      "isCompleted": false
+    },
+    {
+      "id": "pqr",
+      "title": "Todo 3",
+      "isCompleted": false
+    }
+  ]
+}
